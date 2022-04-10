@@ -32,6 +32,6 @@ ABOUT = """
     
 ➥ Creator : [@Always_Meaw]
 
-➥ Language : Python3
+➥ Bot Channel : @BOB_THE_ROCKER
 
-➥ Library : Pyrogram Asyncio 1.13.0
+➥ Language : Python3
