@@ -30,8 +30,8 @@ Bot Owner Only
 ABOUT = """
 ➥ Name :  BOB_GXBot
     
-➥ Creator : [@Always_Meaw]
+➥ Creator : [Always_Meaw]
 
-➥ Bot Channel : @BOB_THE_ROCKER
+➥ Bot Channel : BOB_THE_ROCKER
 
 ➥ Language : Python3
